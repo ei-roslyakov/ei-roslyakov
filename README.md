@@ -16,7 +16,7 @@ class DevOps:
             "Code": {"Python", "Bash"},
             "Cloud": {"AWS"},
             "OS": {"Linux"},
-            "CI/CD": {"Jenkins", "GitHub", "Actions", "Travis CI"},
+            "CI/CD": {"Jenkins", "GitHubActions", "Travis CI"},
             "CM": {"Ansible"},
             "IaC": {"Terraform"},
             "Monitoring": {"ELK", "EFK", "Prometheus", "Grafana", "Amazon CloudWatch"},
