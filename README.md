@@ -1,6 +1,6 @@
 ## Hi, I'm Yevhenii Rosliakov 👋
 
-<p><em>DevOps Enginner at <a href="https://sigma.software/">Sigma Software</a></p>
+<p><em>DevOps Enginner at <a href="https://www.gen.tech">AMO (Genesis)</a></p>
 
 ```python
 #!/usr/bin/python3
@@ -17,10 +17,11 @@ class DevOps:
             "Cloud": {"AWS"},
             "OS": {"Linux"},
             "CI/CD": {"Jenkins", "GitHubActions", "Travis CI"},
-            "CM": {"Ansible"},
-            "IaC": {"Terraform"},
-            "Monitoring": {"ELK", "EFK", "Prometheus", "Grafana", "Amazon CloudWatch"},
-            "Containers": {"Docker", "Kubernetes"}
+            "CM": {"Ansible", "Vagrant", "Packer"},
+            "IaC": {"Terraform", "Terragrunt"},
+            "Monitoring": {"ELK", "EFK", "Prometheus", "Grafana", "Blackbox", "Amazon CloudWatch"},
+            "Containers": {"Docker", "Docker Compose", "ECS", "Kubernetes", "Helm"},
+	    "Web servers": {"Nginx", "Apache"}
         }
         self.certifications = {
             "AWS": "https://www.credly.com/badges/9a34c826-acb7-45fe-a232-ca980e3781aa",
