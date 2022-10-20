@@ -1,6 +1,6 @@
 ## Hi, I'm Yevhenii Rosliakov 👋
 
-<p><em>DevOps Enginner at <a href="https://www.gen.tech">AMO (Genesis)</a></p>
+<p><em>DevOps Enginner at <a href="https://sigma.software/">Sigma Software</a></p>
 
 ```python
 #!/usr/bin/python3
