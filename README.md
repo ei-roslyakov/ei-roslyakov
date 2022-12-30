@@ -10,11 +10,11 @@ import pprint
 class DevOps:
     def __init__(self):
         self.full_name = "Yevhenii Rosliakov"
-        self.role = "DevOps Engineer"
+        self.role = "Senior DevOps Engineer"
         self.languages_spoken = {"en_US", "uk_UA", "ru_RU"}
         self.skills = {
             "Code": {"Python", "Bash"},
-            "Cloud": {"AWS"},
+            "Cloud": {"AWS", "Azure"},
             "OS": {"Linux"},
             "CI/CD": {"Jenkins", "GitHubActions", "Travis CI"},
             "CM": {"Ansible", "Vagrant", "Packer"},
