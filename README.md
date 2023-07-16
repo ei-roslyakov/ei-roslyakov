@@ -26,7 +26,7 @@ class DevOps:
         self.certifications = {
             "AWS": "https://www.credly.com/badges/9a34c826-acb7-45fe-a232-ca980e3781aa",
             "Terraform": "https://www.credly.com/badges/d1d294a1-80a6-4946-ab7c-4ace8bfb58e5",
-            "Kubernetes": "In progress"
+            "Kubernetes": "https://www.credly.com/badges/37a8eaa8-db81-4588-98f6-c7770966982f/linked_in?t=rxmdt6"
         }
 
     def __repr__(self):
