@@ -26,7 +26,8 @@ class DevOps:
         }
         self.certifications = {
             "AWS": {
-                "AWS Certified Solutions Architect – Associate": "Issued Jun 2021"
+                "AWS Certified SysOps Administrator - Associate": "Issued September 2025",
+                "AWS Certified Solutions Architect – Associate": "Issued Jun 2021",
             },
             "Terraform": {
                 "HashiCorp Certified: Terraform Associate (002)": "Issued Jan 2022"
